@@ -1,0 +1,11 @@
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\bin\Debug\netcoreapp2.0\ClassCreationRoslyn.deps.json
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\bin\Debug\netcoreapp2.0\ClassCreationRoslyn.runtimeconfig.json
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\bin\Debug\netcoreapp2.0\ClassCreationRoslyn.runtimeconfig.dev.json
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\bin\Debug\netcoreapp2.0\ClassCreationRoslyn.dll
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\obj\Debug\netcoreapp2.0\ClassCreationRoslyn.csprojResolveAssemblyReference.cache
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\obj\Debug\netcoreapp2.0\ClassCreationRoslyn.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\obj\Debug\netcoreapp2.0\ClassCreationRoslyn.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\obj\Debug\netcoreapp2.0\ClassCreationRoslyn.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\bin\Debug\netcoreapp2.0\ClassCreationRoslyn.pdb
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\obj\Debug\netcoreapp2.0\ClassCreationRoslyn.dll
+c:\users\a.haddad\source\repos\ClassCreationRoslyn\ClassCreationRoslyn\obj\Debug\netcoreapp2.0\ClassCreationRoslyn.pdb
